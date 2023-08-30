@@ -1,7 +1,7 @@
 # Real-Time Coins Counter using OpenCV and cvzone
 ## Demo
 
-(demo.gif)
+![Demo](demo.gif)
 
 ## Overview
 
