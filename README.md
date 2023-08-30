@@ -22,7 +22,7 @@ Installation
 Clone this repository:
 
 ```
-git clone https://github.com/your-username/coins-counter.git
+https://github.com/Benitmulindwa/Real-Time-Coins-counter-OpenCv.git
 ```
 
 ```
@@ -58,4 +58,4 @@ Contributions are welcome! If you find any issues or want to enhance the project
 
 #### License
 
-This project is licensed under the MIT [License](). See the LICENSE file for details.
+This project is licensed under the MIT [License](LICENSE). See the LICENSE file for details.
