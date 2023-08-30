@@ -1,7 +1,5 @@
 # Real-Time Coins Counter using OpenCV and cvzone
 
-## Demo
-
 ## Overview
 
 This project demonstrates a real-time money counting application using computer vision techniques. By analyzing object contours in a webcam feed, the script estimates the total value based on predefined area thresholds. The implementation is done in Python, utilizing the OpenCV library for image processing and the cvzone library for contour detection and visualization.
