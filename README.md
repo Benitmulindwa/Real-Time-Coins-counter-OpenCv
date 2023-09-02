@@ -1,4 +1,5 @@
 # Real-Time Coins Counter using OpenCV and cvzone
+
 ## Demo
 
 ![Demo](demo.gif)
@@ -27,7 +28,7 @@ https://github.com/Benitmulindwa/Real-Time-Coins-counter-OpenCv.git
 ```
 
 ```
-cd coins-counter
+cd Real-Time-Coins-counter-OpenCv
 ```
 
 ### Install the required libraries:
