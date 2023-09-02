@@ -41,7 +41,7 @@ pip install opencv-python cvzone
 Run the script:
 
 ```
-python coins_counter.py
+python main.py
 ```
 
 Adjust the trackbars in the **"Settings"** window to fine-tune image processing parameters.
