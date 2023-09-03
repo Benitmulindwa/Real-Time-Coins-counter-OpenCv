@@ -15,12 +15,15 @@ Object contour detection using OpenCV
 Value estimation based on contour size
 Adjustable image processing parameters through a graphical interface
 Simple visualization of detected contours and total amount
-Requirements
-Python 3.x
-OpenCV (cv2) library
-cvzone library
-Webcam
-Installation
+### Requirements
+
+- Python 3.x
+- OpenCV (cv2) library
+- cvzone library
+- Webcam or a camera
+- 
+### Installation
+
 Clone this repository:
 
 ```
