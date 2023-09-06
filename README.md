@@ -21,7 +21,7 @@ Simple visualization of detected contours and total amount
 - OpenCV (cv2) library
 - cvzone library
 - Webcam or a camera
-- 
+  
 ### Installation
 
 Clone this repository:
