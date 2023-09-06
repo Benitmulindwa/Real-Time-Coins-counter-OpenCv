@@ -15,6 +15,7 @@ Object contour detection using OpenCV
 Value estimation based on contour size
 Adjustable image processing parameters through a graphical interface
 Simple visualization of detected contours and total amount
+
 ### Requirements
 
 - Python 3.x
